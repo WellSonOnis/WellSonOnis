@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br><br>
+
+  <img align="center" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WellSonOnis&custom_title=Most_Language &theme=merko&hide_langs_below=1&layout=compact">
+
+  <img align="center" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WellSonOnis&custom_title=Static &show_icons=true&theme=merko&include_all_commits=true&hide=contribs,issues&count_private=true#gh-light-mode-only">
