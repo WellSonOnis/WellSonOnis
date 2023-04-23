@@ -4,18 +4,15 @@
 **WellSonOnis/WellSonOnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-<br><br>
+- 🔭 I’m currently working on ... Something
+- 🌱 I’m currently learning ... Something
+- 👯 I’m looking to collaborate on ... Something
+- 🤔 I’m looking for help with ... Someone
+- 💬 Ask me about ... Something
+- 📫 How to reach me: ... //
+- 😄 Pronouns: ... Why?
+- ⚡ Fun fact: ... Guess what it's `Something`
 
-  <img align="center" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WellSonOnis&custom_title=Most_Language &theme=merko&hide_langs_below=1&layout=compact">
 
-  <img align="center" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WellSonOnis&custom_title=Static &show_icons=true&theme=merko&include_all_commits=true&hide=contribs,issues&count_private=true#gh-light-mode-only">
+
